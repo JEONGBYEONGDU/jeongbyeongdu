@@ -1,5 +1,4 @@
 ### Hi there 👋
-<!--
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />		
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -8,7 +7,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
   
--->
 </div>
 <!--
 **JEONGBYEONGDU/jeongbyeongdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
