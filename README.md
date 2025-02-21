@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/SQLAlchemy-306998?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=flat&logo=SpringSecurity&logoColor=white">
 </div>
 -->
 <!--
