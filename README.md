@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<!--
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />		
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -10,9 +10,11 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-306998?logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/docker-257bd6?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_data_jpa-6DB33F?style=flat&logo=SpringSecurity&logoColor=white">
+ <img src="https://img.shields.io/badge/-Redis-DC382D?logo=Redis&logoColor=FFF">
+	<img src="https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white">
 </div>
 -
-<!--
+
 **JEONGBYEONGDU/jeongbyeongdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
