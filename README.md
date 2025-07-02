@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu&showicons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu)
+
 <!--
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />		
@@ -16,7 +15,10 @@
 	<img src="https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white">
 </div>
 -
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongbyeongdu)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu&layout=compact&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu&theme=tokyonight)
 **JEONGBYEONGDU/jeongbyeongdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
