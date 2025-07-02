@@ -1,6 +1,6 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGBYEONGDU&showicons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGBYEONGDU)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu&showicons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu)
 <!--
 <div align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />		
