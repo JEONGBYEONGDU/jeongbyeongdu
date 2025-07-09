@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />		
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
@@ -14,12 +13,14 @@
 <img src="https://img.shields.io/badge/-rabbitmq-%23FF6600?style=flat&logo=rabbitmq&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 </div>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jeongbyeongdu)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu&layout=compact&langs_count=5)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongbyeongdu&theme=tokyonight)
 <!--
+![Anurags GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGBYEONGDU)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGBYEONGDU)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=JEONGBYEONGDU)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGBYEONGDU)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGBYEONGDU&layout=compact&langs_count=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGBYEONGDU&theme=tokyonight)
+
 **JEONGBYEONGDU/jeongbyeongdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
